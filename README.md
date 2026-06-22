@@ -1,106 +1,94 @@
-
 <div align="center">
 
-# 👋 Olá sou o Matheus Fuchelberguer Neves
+# 🚀 Matheus Fuchelberguer Neves
+### DevOps & Platform Engineering Intern @ B3 | Computer Science Student @ FIAP
 
-💻 DevOps Engineer em formação | B3  
-🎓 Ciência da Computação – FIAP (2026 – atual)  
-📍 São Paulo – SP, Brasil  
+Contribuindo para a eficiência e estabilidade de ambientes de alta criticidade através de automação, CI/CD e cultura DevOps.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Fuchens28?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=Fuchens28&style=for-the-badge)
+  <a href="https://github.com/Fuchens28">
+    <img src="https://img.shields.io/github/last-commit/Fuchens28?style=for-the-badge&color=7159c1&logo=github" alt="GitHub last commit">
+  </a>
+  <a href="https://github.com/Fuchens28">
+    <img src="https://komarev.com/ghpvc/?username=Fuchens28&style=for-the-badge&color=7159c1" alt="Profile views">
+  </a>
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre Mim
 
-Atuo como Estagiário de DevOps na B3, em um ambiente corporativo de alta criticidade, com foco em automação de processos, CI/CD e suporte a plataformas internas.
+Atualmente atuo como **Estagiário de DevOps na B3**, imerso em um ecossistema financeiro de alta criticidade. Meu foco principal está na evolução e suporte da plataforma de **IDP (Internal Developer Platform)**, automatizando processos rotineiros e otimizando pipelines de entrega para acelerar o ciclo de vida do desenvolvimento.
 
-Tenho experiência prática com sistemas críticos, versionamento de código e rotinas de automação, contribuindo para estabilidade e eficiência operacional.
-
----
-
-## 🏦 Experiência
-
-### 🏢 B3 – Estagiário DevOps (2026 – Atual)
-
-Atuação na plataforma IDP, com foco em automação e suporte a pipelines de CI/CD.
-
-**Principais atividades:**
-- Automação de processos críticos com PowerShell  
-- Suporte a pipelines de CI/CD (Bamboo)  
-- Versionamento de código com Git  
-- Operação em ambientes Linux  
-- Suporte à plataforma IDP  
-- Melhoria contínua de processos DevOps  
+🎓 **Acadêmico:** Graduando em Ciência da Computação pela FIAP (2026 – Atual).
 
 ---
 
-## 🧰 Stack Técnica
+## 🛠️ Tech Stack & Ferramentas
 
 ### 🔁 DevOps & CI/CD
-- CI/CD (ambiente corporativo)
-- Bamboo
-- Git
-- Helix
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bamboo](https://img.shields.io/badge/Atlassian%20Bamboo-%230052CC.svg?style=for-the-badge&logo=atlassian&logoColor=white)
+<img src="https://img.shields.io/badge/Helix_Core-000000?style=for-the-badge" alt="Helix">
 
-### ⚙️ Automação & Sistemas
-- Linux
-- PowerShell
-- Automação de processos
+### ⚙️ Automação & Sistemas Operacionais
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🐍 Programação
-- Python (básico)
+### 🐍 Programação & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 💼 Experiência Profissional
+
+### **B3 — Estagiário de DevOps** *(2026 – Atual)*
+*Suporte à plataforma IDP e automação de infraestrutura em ambiente de missão crítica.*
+
+* **Engenharia de Plataforma (IDP):** Suporte e melhoria contínua na plataforma interna de desenvolvimento, visando mitigar fricções para os times de engenharia.
+* **Automação de Processos:** Desenvolvimento de scripts robustos em **PowerShell** para automação de rotinas operacionais e checagens críticas.
+* **Continuous Integration (CI/CD):** Manutenção e sustentação de pipelines corporativos utilizando **Atlassian Bamboo**.
+* **Gestão de Configuração:** Administração e versionamento de código utilizando **Git** e **Helix Core** em ambientes **Linux**.
+
+---
+
+## 🏆 High-Performance Mindset (O Diferencial)
+
+Foram **11 anos como atleta de alto rendimento na natação**. Essa bagagem moldou diretamente minha postura profissional no ecossistema de tecnologia:
+* 🎯 **Foco Absoluto em Metas:** Disciplina de longo prazo voltada para a entrega de resultados.
+* ⚡ **Resiliência sob Pressão:** Capacidade testada de manter a calma e agir de forma analítica em incidentes e cenários críticos.
+* 👥 **Colaboração:** Espírito de equipe voltado para o crescimento coletivo da squad.
+
+---
+
+## 📚 Alvos Atuais de Estudo
+
+No momento, estou aprofundando meus conhecimentos para consolidar a transição para posições de maior autonomia:
+* 🐳 Conteinerização Avançada (**Docker** & Ecossistema de Containers)
+* ☁️ Fundamentos de Cloud Compute (AWS / Azure)
+* 🐧 Administração Avançada de Sistemas Linux
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuchens28&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuchens28&layout=compact&theme=tokyonight)
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Fuchens28&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Matheus's GitHub stats" height="180px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuchens28&layout=compact&theme=tokyonight" alt="Top Langs" height="180px"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
----
-
-## 🧠 Soft Skills
-
-- Comunicação eficaz  
-- Trabalho em equipe  
-- Pensamento analítico  
-- Proatividade  
-- Adaptabilidade  
-
----
-
-## 🏆 Diferencial
-
-Atleta de alto rendimento em natação por 11 anos.
-
-**Desenvolvi:**
-- disciplina em longo prazo  
-- alta performance sob pressão  
-- foco em metas e execução  
-- resiliência em cenários críticos  
-
----
-
-## 📚 Atualmente estudando
-
-- CI/CD avançado  
-- Docker  
-- Linux avançado  
-- Cloud fundamentals  
 
 ---
 
 <div align="center">
 
-📍 São Paulo – SP
+📍 São Paulo – SP, Brasil
 
 </div>
