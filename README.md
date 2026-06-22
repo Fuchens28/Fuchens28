@@ -3,13 +3,13 @@
 # 👋 Matheus Fuchelberguer Neves
 
 <!-- Banner Animado estilo Terminal Tech -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7159C1&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineering+Intern;Computer+Science+Student+@+FIAP;High-Performance+Mindset;Automating+Everything" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7159C1&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineering+Intern;Computer+Science+Student+-+FIAP;High-Performance+Mindset;Automating+Everything" alt="Typing SVG" />
 
 <!-- Destaque Principal do Cargo e Universidade -->
 <table>
   <tr>
     <td align="center" bgcolor="#1e1e24">
-      <code><b><font size="4" color="#7159C1">🚀 DevOps & Platform Engineering Intern @ B3 | 🎓 Computer Science Student @ FIAP</font></b></code>
+      <code><b><font size="4" color="#7159C1">🚀 DevOps & Platform Engineering Intern - B3 | 🎓 Computer Science Student - FIAP</font></b></code>
     </td>
   </tr>
 </table>
