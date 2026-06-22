@@ -2,10 +2,10 @@
 
 # 👋 Matheus Fuchelberguer Neves
 
-<!-- Banner Animado estilo Terminal Tech -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7159C1&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineering+Intern;Computer+Science+Student+-+FIAP;High-Performance+Mindset;Automating+Everything" alt="Typing SVG" />
+<!-- Banner Animado estilo Terminal Tech (Customizado em Inglês) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7159C1&center=true&vCenter=true&width=600&lines=DevOps;IDP+Platform;Automation;Computer+Science+Student+-+FIAP" alt="Typing SVG" />
 
-<!-- Destaque Principal do Cargo e Universidade -->
+<!-- Destaque Principal do Cargo e Universidade com Separador "-" -->
 <table>
   <tr>
     <td align="center" bgcolor="#1e1e24">
@@ -22,7 +22,7 @@ Contribuindo para a eficiência e estabilidade de ambientes de alta criticidade 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fuchelberguer-neves)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuchelberguerneves@gmail.com)
 
-<!-- Badges de Métricas Corrigidas -->
+<!-- Badges de Métricas -->
 <br />
 <img src="https://komarev.com/ghpvc/?username=Fuchens28&style=for-the-badge&color=7159c1" alt="Profile views">
 
