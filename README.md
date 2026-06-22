@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🚀 Matheus Fuchelberguer
+# 👋 Matheus Fuchelberguer Neves
 
-<!-- Banner Dinâmico com Efeito de Digitação Terminal -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7159C1&center=true&vCenter=true&width=550&lines=DevOps+&amp;+Platform+Engineering;Automating+Critical+Processes;Computer+Science+Student+@+FIAP;High-Performance+Mindset" alt="Typing SVG" />
+<!-- Banner Animado estilo Terminal Tech -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7159C1&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineering+Intern;Computer+Science+Student+@+FIAP;High-Performance+Mindset;Automating+Everything" alt="Typing SVG" />
 
-Contribuindo para a eficiência e estabilidade de ambientes de alta criticidade através de automação, CI/CD e cultura de engenharia.
+Contribuindo para a eficiência e estabilidade de ambientes de alta criticidade através de automação, CI/CD e cultura DevOps.
 
 <!-- Badges de Conexão Estilo Terminal -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fuchelberguer-neves)
@@ -22,7 +22,7 @@ Contribuindo para a eficiência e estabilidade de ambientes de alta criticidade 
 
 ## 🧠 Sobre Mim
 
-Atualmente atuo como **Estagiário de DevOps na B3**, imerso em um ecossistema financeiro de alta criticidade e volume de dados. Meu foco principal está na evolução, sustentação e suporte de **IDP (Internal Developer Platforms)**, automatizando processos operacionais e otimizando pipelines de entrega de software para mitigar fricções e acelerar o ciclo de vida do desenvolvimento.
+Atualmente atuo como **Estagiário de DevOps na B3**, imerso em um ecossistema financeiro de alta criticidade. Meu foco principal está na evolução e suporte da plataforma de **IDP (Internal Developer Platform)**, automatizando processos rotineiros e otimizando pipelines de entrega para acelerar o ciclo de vida do desenvolvimento.
 
 🎓 **Acadêmico:** Graduando em Ciência da Computação pela FIAP (2026 – Atual).
 
