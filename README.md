@@ -3,7 +3,7 @@
 # 👋 Matheus Fuchelberguer Neves
 
 <!-- Banner Animado estilo Terminal Tech (Customizado em Inglês) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7159C1&center=true&vCenter=true&width=600&lines=DevOps;IDP+Platform;Automation;Computer+Science+Student+-+FIAP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=1000&color=7159C1&center=true&vCenter=true&width=600&lines=DevOps;IDP+Platform;Automation;Computer+Science+Student+-+FIAP" alt="Typing SVG" />
 
 <!-- Destaque Principal do Cargo e Universidade com Separador "-" -->
 <table>
